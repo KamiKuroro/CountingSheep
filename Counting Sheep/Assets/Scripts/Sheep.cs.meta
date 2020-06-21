@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: f8a3af66adc2d2541979d688617a787a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sheepPrefab: {fileID: 4543898114728715128, guid: 0ae828156235adf439fdc0b3e028350d,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
